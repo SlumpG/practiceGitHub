@@ -6,7 +6,7 @@ import Form from './components/Form/Form';
 import { getPosts } from './actions/posts';
 import useStyles from './styles';
 import memories from './images/memories.png';
-// check for prommestion
+// check for prommestion werew
 const App = () => {
   const [currentId, setCurrentId] = useState(0);
   const dispatch = useDispatch();
