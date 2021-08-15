@@ -7,6 +7,8 @@ import { getPosts } from './actions/posts';
 import useStyles from './styles';
 import memories from './images/memories.png';
 
+//everybody dance
+
 const App = () => {
   const [currentId, setCurrentId] = useState(0);
   const dispatch = useDispatch();
